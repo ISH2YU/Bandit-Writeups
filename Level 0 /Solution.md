@@ -1,7 +1,7 @@
 # Task 
-**Log in** with help of SSH
+- **Log in** with help of SSH
 
-Server: bandit.labs.overthewire.org
+- Server: bandit.labs.overthewire.org
 
 Port: 2220
 
