@@ -3,11 +3,11 @@
 
 - Server: bandit.labs.overthewire.org
 
-Port: 2220
+- Port: 2220
 
-Username: bandit0
+- Username: bandit0
 
-Password: bandit0
+- Password: bandit0
 
 ### Steps
 
