@@ -15,3 +15,4 @@ Password: bandit0
   cat readme
   ```
 
+- You will get a Password some random text save it , its your key for next level
