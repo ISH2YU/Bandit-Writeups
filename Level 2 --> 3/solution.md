@@ -9,4 +9,4 @@ The password for the next level is stored in a file called spaces in this filena
 cat "spaces in this filename"
 ```
 
-Trick : Just type cat and press TAB or cat ./ TAB
+Trick :    Just type cat and press TAB or cat ./ TAB
