@@ -19,7 +19,7 @@ file ./*
 This commands list file type of all files in directory
 You will notice file07 have ASCII text so read it 
 
-![Alt text](images.png)
+![Alt text](image.png)
 
 ```sh
 cat ./-file07
